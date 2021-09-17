@@ -1,0 +1,21 @@
+body {
+  background: white;
+}
+
+button {
+  width: 6rem;
+  background-color: rgb(224, 144, 144);
+}
+.hr {
+  background: black;
+  border: 1px solid black;
+}
+
+.books-list {
+  display: flex;
+  align-self: center;
+  position: center;
+  width: auto;
+}
+.footer {
+}
